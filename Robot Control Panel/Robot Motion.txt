@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title> Robot Motion </title>
+</head>
+<style>
+body{
+    background-color: #455a64;
+    text-align: center;
+    }
+    .button{
+    border-radius: 100%;
+    background-color: #03a9f4;
+    color: white;
+    border: none;
+    outline: 2px;
+    padding: 7%;
+    margin: 1%;
+    font-size: 150%;
+    transition-duration: 0.5s;
+    cursor: pointer;
+    display: inline;
+    box-shadow: 3px 3px 7px #333;
+    }
+
+</style>
+<body>
+
+</body>
+<section>
+<button  style="left: 880px; top: 800px" class="button" button 
+>Go</button>
+</section>
+
+<button style="left: 880px; top: 450px" class="button" button 
+>Left</button>
+
+
+<button style="background-color:#ff1538;" class="button" button 
+>Stop</button>
+
+<button style="left: 880px; top: 450px" class="button" button 
+>Right</button>
+
+
+<button style="left: 880px; top: 100px" class="button" button 
+>Back</button>
+
+</body>
+</html>
+
+
+
